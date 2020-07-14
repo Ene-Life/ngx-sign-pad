@@ -1,30 +1,6 @@
 {
-  "_from": "ngx-sign-pad",
-  "_id": "ngx-sign-pad@0.0.1-alpha.4",
-  "_inBundle": false,
-  "_integrity": "sha512-HYTyUlLKNFQOF4Zmj9xZMgQN+nH+25W8EFWPIkq7rjwGxcnb5b/VMT5jrEEaJ2YCindI/pu+ZnyyoXCEb6E1yA==",
-  "_location": "/ngx-sign-pad",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "ngx-sign-pad",
-    "name": "ngx-sign-pad",
-    "escapedName": "ngx-sign-pad",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/ngx-sign-pad/-/ngx-sign-pad-0.0.1-alpha.4.tgz",
-  "_shasum": "7b4408d3df67d6697995418517706442c5461042",
-  "_spec": "ngx-sign-pad",
-  "_where": "C:\\Users\\Samuel\\Desktop\\asd",
   "bugs": {
-    "url": "https://github.com/HeicoJoswig/ngx-sign-pad/issues"
+    "url": "https://github.com/Ene-Life/ngx-sign-pad/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -38,7 +14,7 @@
   "esm5": "esm5/ngx-sign-pad.js",
   "fesm2015": "fesm2015/ngx-sign-pad.js",
   "fesm5": "fesm5/ngx-sign-pad.js",
-  "homepage": "https://github.com/HeicoJoswig/ngx-sign-pad#readme",
+  "homepage": "https://github.com/Ene-Life/ngx-sign-pad#readme",
   "keywords": [
     "Angular",
     "Sign",
@@ -58,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HeicoJoswig/ngx-sign-pad.git"
+    "url": "git+https://github.com/Ene-Life/ngx-sign-pad.git"
   },
   "sideEffects": false,
   "typings": "ngx-sign-pad.d.ts",
