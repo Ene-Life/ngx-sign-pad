@@ -4,7 +4,7 @@ ngx-sign-pad is an Angular wrapper for [szimek/signature_pad](https://www.npmjs.
 ## Usage
 
 ### 1. Install
-`npm install ngx-sign-pad --save`
+`npm install Ene-Life/ngx-sign-pad#master --save`
 
 ### 2. Import SignaturePadModule
 ```typescript
