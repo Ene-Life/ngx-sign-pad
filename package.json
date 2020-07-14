@@ -1,20 +1,66 @@
 {
-  "name": "ngx-sign-pad",
-  "version": "0.0.1-alpha.4",
-
-  "description": "An Angular wrapper for [szimek/signature_pad](https://www.npmjs.com/package/signature_pad).",
-  "keywords" :["Angular","Sign", "Signature", "Signaturepad", "Signpad", "SignaturePad"],
-  "license" : "MIT",
-  "repository": {
-    "type" : "git",
-    "url" : "https://github.com/Ene-Life/ngx-sign-pad"
+  "_from": "ngx-sign-pad",
+  "_id": "ngx-sign-pad@0.0.1-alpha.4",
+  "_inBundle": false,
+  "_integrity": "sha512-HYTyUlLKNFQOF4Zmj9xZMgQN+nH+25W8EFWPIkq7rjwGxcnb5b/VMT5jrEEaJ2YCindI/pu+ZnyyoXCEb6E1yA==",
+  "_location": "/ngx-sign-pad",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ngx-sign-pad",
+    "name": "ngx-sign-pad",
+    "escapedName": "ngx-sign-pad",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
   },
-
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ngx-sign-pad/-/ngx-sign-pad-0.0.1-alpha.4.tgz",
+  "_shasum": "7b4408d3df67d6697995418517706442c5461042",
+  "_spec": "ngx-sign-pad",
+  "_where": "C:\\Users\\Samuel\\Desktop\\asd",
+  "bugs": {
+    "url": "https://github.com/HeicoJoswig/ngx-sign-pad/issues"
+  },
+  "bundleDependencies": false,
   "dependencies": {
-    "signature_pad": "^3.0.0-beta.3"
+    "signature_pad": "^3.0.0-beta.3",
+    "tslib": "^1.9.0"
   },
+  "deprecated": false,
+  "description": "An Angular wrapper for [szimek/signature_pad](https://www.npmjs.com/package/signature_pad).",
+  "es2015": "fesm2015/ngx-sign-pad.js",
+  "esm2015": "esm2015/ngx-sign-pad.js",
+  "esm5": "esm5/ngx-sign-pad.js",
+  "fesm2015": "fesm2015/ngx-sign-pad.js",
+  "fesm5": "fesm5/ngx-sign-pad.js",
+  "homepage": "https://github.com/HeicoJoswig/ngx-sign-pad#readme",
+  "keywords": [
+    "Angular",
+    "Sign",
+    "Signature",
+    "Signaturepad",
+    "Signpad",
+    "SignaturePad"
+  ],
+  "license": "MIT",
+  "main": "bundles/ngx-sign-pad.umd.js",
+  "metadata": "ngx-sign-pad.metadata.json",
+  "module": "fesm5/ngx-sign-pad.js",
+  "name": "ngx-sign-pad",
   "peerDependencies": {
     "@angular/common": "^7.2.0",
     "@angular/core": "^7.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeicoJoswig/ngx-sign-pad.git"
+  },
+  "sideEffects": false,
+  "typings": "ngx-sign-pad.d.ts",
+  "version": "0.0.1-alpha.4"
 }
