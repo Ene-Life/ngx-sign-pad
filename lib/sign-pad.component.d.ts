@@ -7,7 +7,7 @@ export declare class SignPadComponent implements AfterContentInit {
     signatureChange: EventEmitter<string>;
     type: EImageType | string;
     options: SignaturePadOptions;
-    canvasElementRef: ElementRef<HTMLCanvasElement>;
+    canvasElementRef: ElementRef;
     signaturePad: SignaturePad;
     private _options;
     constructor();
